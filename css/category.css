@@ -1001,3 +1001,42 @@ body {
     color: #03203A;
     text-align: center;
 }
+/* 6th container */
+.card-container-8{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card-29 {
+    background-color: white;
+    width: 260px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 1px #333333;
+    border: 0.5px solid #737373;
+}
+
+.card-29:hover {
+    box-shadow: 0px 0px 10px 3px #333333;
+    transition: 1.5s;
+    background-color: #9eefa1;
+}
+
+.card-29-img {
+    height: 210px;
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+    border: solid black 1px;
+}
+
+.card-29-title {
+    margin-bottom: 10px;
+    padding: 0;
+    font-size: 30px;
+    font-family: Copse;
+    color: #03203A;
+    text-align: center;
+}
