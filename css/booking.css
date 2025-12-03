@@ -1,9 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-   body {
+ body {
         margin: 0;
         padding: 0;
         font-family: 'Poppins', sans-serif;
@@ -15,7 +10,7 @@
         height: 1200px;
         max-width: 800px;
         margin: 50px auto;
-        background: #fffbe6;
+        background: #ffff;
         padding: 50px;
         border-radius: 20px;
         box-shadow: 0 10px 25px rgba(0,0,0,0.12);
@@ -66,11 +61,7 @@
 
     }
     
-   
-
-    
-
-    .checkbox-group {
+   .checkbox-group {
         display: flex;
         flex-wrap: wrap;
         gap: 10px;
