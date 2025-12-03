@@ -36,7 +36,8 @@ body
     height:440px;
     width: 500px;
     justify-content: center;
-    margin-left: 400px;
+    margin-left: 100px;
+    
     margin-top:40px;
     border: 2px solid#9c7135;
    color:#03203A;;
@@ -76,7 +77,7 @@ body
    }
    .text1{
     text-align: center;
-    color:#d8830c;
+    color:#fa970d;
    }
  .text3{
    color: #03203A;
@@ -84,4 +85,8 @@ body
 
  .p1{
     text-align: center;
+ }
+
+ .parent-2{
+  display:flex; 
  }
