@@ -22,6 +22,11 @@ body {
 .left-section {
     display: flex;
     align-items: center;
+    margin-right: 20px;
+}
+.left-section img {
+    margin-right: 15px;  
+
 }
 
 .brand-section {
@@ -34,10 +39,12 @@ body {
     width: 80px;
     height: 80px;
     border-radius: 10px;
+    gap: 50px;
 }
 
 .brand-text {
-    margin: 0;
+    margin: 10;
+    padding: 20;
     font-size: 28px;
     font-weight: bold;
     color: white;
@@ -78,7 +85,11 @@ body {
 .right-links a:hover {
     color: gold;
 }
-
+.banner-logo {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
 .best-sellers-title {
     text-align: center;
     color: #a86201;

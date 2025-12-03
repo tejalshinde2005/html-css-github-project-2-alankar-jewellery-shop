@@ -3,4 +3,111 @@
     padding: 0;
     box-sizing: border-box;
 }
-  
+   body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+        background: linear-gradient(135deg, #e7f0fc, #f8f9fa, #f7fcff);
+
+    }
+
+    .container {
+        height: 1200px;
+        max-width: 800px;
+        margin: 50px auto;
+        background: #fffbe6;
+        padding: 50px;
+        border-radius: 20px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+        border: 2px solid #ebf7d6;
+    }
+
+    .header {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .header h1 {
+        margin: 0;
+        font-size: 32px;
+        color: #008eb1;
+        text-shadow: 0 0 10px #b6eaff;
+    }
+
+    .header p {
+        font-size: 15px;
+        color: #555555;
+    }
+    .img{
+        height: 330px;
+        width: 600px;
+
+        display: block;
+        margin: 0 auto;
+       
+
+    }
+
+    .labels {
+        font-weight: 600;
+        color: #00416a;
+        display: block;
+        margin-bottom: 6px;
+        margin-top: 15px;
+    }
+    .selection {
+        width: 100%;
+        padding: 12px;
+        border-radius: 10px;
+        border: 1.5px solid #a6c7d4;
+        font-size: 14px;
+        background: #f8fcff;
+        transition: 0.2s;
+
+    }
+    
+   
+
+    
+
+    .checkbox-group {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 10px;
+    }
+
+     .checkbox-label {
+        background: #f0f8ff;
+        padding: 8px 14px;
+        border-radius: 25px;
+        border: 1px solid #b0dae6;
+        cursor: pointer;
+        transition: 0.2s;
+        margin-top: 20px;
+    }
+
+    .checkbox-label:hover {
+        background: #d4ebff;
+        border-color: #3982c7;
+    }
+
+    .buttons {
+        width: 100%;
+        padding: 14px;
+        background: linear-gradient(135deg, #7accff, #4c9aff);
+        border: none;
+        border-radius: 12px;
+        color: #ffffff;
+        font-size: 18px;
+        margin-top: 25px;
+        cursor: pointer;
+        font-weight: 600;
+        box-shadow: 0 5px 15px rgba(0, 119, 255, 0.3);
+        transition: 0.3s;
+    }
+
+    button:hover {
+        background: linear-gradient(135deg, #5980ff, #0082e6);
+        box-shadow: 0 8px 20px rgba(0, 136, 255, 0.5);
+    }
