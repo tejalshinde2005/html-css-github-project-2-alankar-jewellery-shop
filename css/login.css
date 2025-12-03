@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   
 }
 
 body
@@ -17,7 +18,7 @@ body
     }
 
 .parent{
-    background-color:rgb(138, 25, 25);
+    background-color:;
     height:440px;
     width: 500px;
     justify-content: center;
@@ -38,7 +39,8 @@ body
     margin-bottom:none;
     background-color:rgb(6, 187, 6);
     text-align: center;
-    box-shadow: 3px 5px 2px rgb(83, 58, 58);
+    box-shadow: 2px 2px 2px rgb(23, 78, 23);
+    
     }
 
      .btn2{
