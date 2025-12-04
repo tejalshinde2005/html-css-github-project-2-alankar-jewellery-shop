@@ -90,11 +90,11 @@
      padding: 0;
      display: block;
  }
- 
 
 
-   
- 
+
+
+
 
 
  .container {
@@ -105,15 +105,16 @@
      padding-top: 80px;
      border-radius: 20px;
      box-shadow: 5px 10px 3px #9c7135;
-     border: 2px solid#9c7135;
+     border: 2.5px solid#9c7135;
      color: #03203A;
      font-size: 18px;
  }
- .container:hover{
-    box-shadow: 5px 10px 10px 2px #6d6c6c;
-    transition: 0.5s;
-    background-color: #e1f5e2;
-    border: solid 2px green;
+
+ .container:hover {
+     box-shadow: 5px 10px 10px 2px #6d6c6c;
+     transition: 0.5s;
+     background-color: #e1f5e2;
+     border: solid 2.5px green;
  }
 
  .header {
@@ -125,28 +126,29 @@
      margin: 0;
      font-size: 38px;
      color: #a86201;
-     text-shadow: 0 0 10px #fff8b6;
+     text-shadow: 0 0 10px #ffddb6;
  }
 
  .header p {
      font-size: 15px;
      color: #201f1f;
  }
- .img{
-        height: 330px;
-        width: 600px;
-        border-radius: 15px;
 
-        display: block;
-        margin: 0 auto;
-       
+ .img {
+     height: 330px;
+     width: 600px;
+     border-radius: 15px;
 
-    }
+     display: block;
+     margin: 0 auto;
 
- 
+
+ }
+
+
 
  .labels {
-    
+
      font-weight: 600;
      color: #030303;
      display: block;
@@ -157,65 +159,67 @@
  }
 
  .selection {
-    width: 70%;
-    margin: 0 30px;
-      padding:8px 60px;
-    border-radius:5px;
-    box-shadow: 4px 5px 2px  #9c7135;
-}
+     width: 70%;
+     margin: 0 30px;
+     padding: 8px 60px;
+     border-radius: 5px;
+     box-shadow: 4px 5px 2px #9c7135;
+ }
 
- 
+
 
  .checkbox-group {
      display: flex;
      flex-wrap: wrap;
      gap: 5px;
      margin-top: 10px;
-      color: #030303;
-       font-size: 20px;
-       margin: 10px 30px;
+     color: #030303;
+     font-size: 20px;
+     margin: 10px 30px;
  }
 
  .checkbox-label {
-     background:  #dbad6d;
+     background: #dda350;
      padding: 8px 14px;
      border-radius: 25px;
-     border: 2px solid #ec9b4a;
+     border: 2.5px solid #ee9b49;
      cursor: pointer;
      transition: 0.2s;
      margin-top: 20px;
  }
 
  .checkbox-label:hover {
-     background: #f3a451;
-     border-color: #f0aa39;
+     background: #f19736;
+     border-color: #ed9d1c;
+     border: 2.5px solid #ef8922;
  }
- .btn-view{
-    padding: 20px 20px;
+
+ .btn-view {
+     padding: 20px 20px;
  }
 
  .btn {
-     padding:10px 40px;
-    border-radius: 10px;
-    margin-top: 10px;
-    display: block;
-   margin:0 auto;
-    margin-bottom:none;
-    background-color:#31443b;
-    text-align: center;
-    box-shadow: 2px 2px 2px rgb(23, 78, 23);
-    
-    color: white;
-    font-size: 18px;
-    border: none;
-    transition: 0.3s ease;
-    cursor: pointer;
-    
+     padding: 10px 40px;
+     border-radius: 10px;
+     margin-top: 10px;
+     display: block;
+     margin: 0 auto;
+     margin-bottom: none;
+     background-color: #31443b;
+     text-align: center;
+     box-shadow: 2px 2px 2px rgb(23, 78, 23);
+
+     color: white;
+     font-size: 18px;
+     border: none;
+     transition: 0.3s ease;
+     cursor: pointer;
+
  }
 
  button:hover {
      background-color: #192d1d;
-    box-shadow: rgba(41, 72, 59, 0.4);
+     box-shadow: rgba(41, 72, 59, 0.4);
  }
 
  footer {
