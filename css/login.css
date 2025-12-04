@@ -19,11 +19,15 @@ body{
     font-family: 'Times New Roman', Times, serif;
     padding-top: 100px;
 }
+.form{
+       padding-bottom: 40px;
+}
      
 .parent{
      height: 400px;
     width:100px;
     border: solid 2px black;
+ 
 }
     .parent:hover{
     border: solid 2px green;
@@ -33,21 +37,23 @@ body{
 
 .parent{
     background-color:white;
-    height:440px;
-    width: 500px;
+    height:500px;
+    width: 550px;
     justify-content: center;
     margin-left: 80px; 
     margin-top:40px;
     border: 2px solid#9c7135;
     color:#03203A;
-    padding-bottom: 10px;
+    padding-bottom: 40px;
     display: flex;
     border-radius: 10px;
     padding-top: none;
     box-shadow: 5px 10px 3px #9c7135;
     font-size: 18px;
+    padding-left: 20px;
+}
     
- }
+ 
     .parent:hover{
     box-shadow: 5px 10px 10px 2px #6d6c6c;
     transition: 0.5s;
@@ -56,19 +62,22 @@ body{
 
 
     .btn2{
-    padding:8px 80px;
+    padding:10px 140px;
     border-radius:5px;
     box-shadow: 4px 5px 2px  #9c7135;
+    
 }
 
    .text1{
     text-align: center;
-    color:#fa970d;
+    color:#9c7135;
     font-size: 36px;
+   
 }
   
     .parent-2{
   display:flex; 
+  
  }
 
  .paregraf{
@@ -82,6 +91,7 @@ body{
     .text3{
     color:#03203A;
     text-decoration: none;
+    
  }
 
  .btn{
@@ -92,7 +102,7 @@ body{
     background-color:#31443b;
     text-align: center;
     box-shadow: 2px 2px 2px rgb(23, 78, 23);
-    margin-left: 80px;
+    margin-left: 120px;
     color: white;
     font-size: 18px;
     border: none;
