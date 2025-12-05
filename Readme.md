@@ -45,38 +45,52 @@ https://alankar-jewellary-shop.netlify.app/
 
 
 **Folder structure**
-alankar-jewellers/
-│
-├── index.html
-├── about.html
-├── collections.html
-├── contact.html
-├── feedback.html
-├── booking.html
-├── login.html
-├── signup.html
-│
-├── /assets
-│   ├── /css
-│   │    ├── style.css
-│   │    └── responsive.css     <-- (Optional but recommended)
-│   │
-│   ├── /images
-│   │    ├── logo.png
-│   │    ├── banner.jpg
-│   │    ├── earring.jpg
-│   │    ├── ring.jpg
-│   │    ├── bracelet.jpg
-│   │    ├── necklace.jpg
-│   │    └── other images...
-│   │
-│   ├── /icons
-│   │    └── (social icons, menu icons, etc.)
-│   │
-│   └── /screenshots
-│        ├── homepage.png
-│        ├── collections.png
-│        ├── footer.png
-│        └── navbar.png
-│
-└── README.md
+HTML-CSS-Github-Project-2-Alankar-Jewellery-Shop/
+
+index.html
+
+Readme.md
+
+style.css
+
+css/
+about.css
+
+booking.css
+
+category.css
+
+contact.css
+
+feedback.css
+
+login.css
+
+signup.css
+
+pages/
+about.html
+
+booking.html
+
+category.html
+
+contact.html
+
+feedback.html
+
+login.html
+
+signup.html
+
+images/
+
+logo.png
+
+all product images
+
+banner images
+
+team member images
+
+screenshots
