@@ -205,6 +205,11 @@
             margin: 8px 0;
             font-size: 16px;
         }
+.info-box a {
+    text-decoration: none;
+    color: #333;   
+    font-weight: 600;
+}
 
 
 .footer {
