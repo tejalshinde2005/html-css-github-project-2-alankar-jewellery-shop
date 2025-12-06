@@ -266,6 +266,9 @@ footer {
     color: white;
     text-decoration: none;
 }
+.footer-contact p {
+    white-space: nowrap;
+}
 
 .footer-contact a:hover {
     color:darkorange;
