@@ -22,7 +22,7 @@ This project showcases clean UI design, beautiful layouts, product sections, col
 ## 🚀 Live Demo
 <!-- H2 tag -->
 
-[View Live on Netlify](https://alankar-jewellary-shop.netlify.app/)
+[View Live on vercel](https://html-css-github-project-2-alankar-j.vercel.app/)
 <!-- Link tag -->
 
 ---
@@ -48,13 +48,12 @@ This project showcases clean UI design, beautiful layouts, product sections, col
 ### Home Page
 <!-- H3 tag -->
 ![Home Screenshot](./images/sc-homepage.png)  
-![Home Screenshot](./images/sc-homepage1.png)  
+ 
 
 ### Collections Page
 <!-- H3 tag -->
 ![Collection Screenshot](./images/sc-collection-1.png)  
-![Collection Screenshot](./images/sc-collection-2.png)  
-![Collection Screenshot](./images/sc-collection-3png.png)  
+ 
 
 ---
 
